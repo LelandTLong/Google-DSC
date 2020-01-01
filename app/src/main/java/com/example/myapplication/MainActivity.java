@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
     public void onForumCLick(View v) {
         Intent intent = new Intent(getBaseContext(), ForumPage.class);
         startActivity(intent);
+        //comment
     }
 
 }
