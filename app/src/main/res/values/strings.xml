@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="title_activity_forum_page">ForumPage</string>
+    <string name="find_a_building">Find a Building</string>
+    <string name="message_someone">Message Someone</string>
+    <string name="go_to_forum">Go to Forum</string>
+    <string name="faq">FAQ</string>
 </resources>
