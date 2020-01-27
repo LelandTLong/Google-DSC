@@ -23,5 +23,12 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(getBaseContext(), MessagingPage.class);
         startActivity(intent);
     }
-
+    public void onMapCLick(View v) {
+        Intent intent = new Intent(getBaseContext(), MapPage.class);
+        startActivity(intent);
+    }
+    public void onFAQCLick(View v) {
+        Intent intent = new Intent(getBaseContext(), FAQPage.class);
+        startActivity(intent);
+    }
 }

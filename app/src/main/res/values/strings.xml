@@ -6,4 +6,6 @@
     <string name="go_to_forum">Go to Forum</string>
     <string name="faq">FAQ</string>
     <string name="messagingPage">MessagingPage</string>
+    <string name="title_activity_map_page">Map</string>
+    <string name="title_activity_faqpage">FAQPage</string>
 </resources>
